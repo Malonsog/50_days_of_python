@@ -20,7 +20,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 1**](https://github.com/Malonsog/50_days_of_python/tree/main/01): División y raíz cuadrada / Division and Square-root
 * [**Día / Day 2**](https://github.com/Malonsog/50_days_of_python/tree/main/02): Strings to Integers
 * [**Día / Day 3**](https://github.com/Malonsog/50_days_of_python/tree/main/03): Register Check
-* **Día / Day 4**: Only Floats
+* [**Día / Day 4**](https://github.com/Malonsog/50_days_of_python/tree/main/04): Only Floats
 * **Día / Day 5**: My Discount
 * **Día / Day 6**: User Name Generator
 * **Día / Day 7**: A String Range
