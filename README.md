@@ -17,7 +17,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 
 ## Tabla de contenido / Table of Contents
 
-* [**Día / Day 1**](https://github.com/Malonsog/50_days_of_python/tree/main/01): División y raíz cuadrada / Division and Square-root
+* [**Día / Day 1**](https://github.com/Malonsog/50_days_of_python/tree/main/01): Division and Square-root
 * [**Día / Day 2**](https://github.com/Malonsog/50_days_of_python/tree/main/02): Strings to Integers
 * [**Día / Day 3**](https://github.com/Malonsog/50_days_of_python/tree/main/03): Register Check
 * [**Día / Day 4**](https://github.com/Malonsog/50_days_of_python/tree/main/04): Only Floats
@@ -26,7 +26,8 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 7**](https://github.com/Malonsog/50_days_of_python/tree/main/07): A String Range
 * [**Día / Day 8**](https://github.com/Malonsog/50_days_of_python/tree/main/08): Odd and Even
 * [**Día / Day 9**](https://github.com/Malonsog/50_days_of_python/tree/main/09): Biggest Odd Number
-* **Día / Day 10**: Hide my Password
+* [**Día / Day 10**](https://github.com/Malonsog/50_days_of_python/tree/main/10): Hide my Password
+* [**Día / Day 10**](https://github.com/Malonsog/50_days_of_python/tree/main/10): Extra Challenge: Strings With a Thousand Separator
 * **Día / Day 11**: Are They Equal?
 * **Día / Day 12**: Count the Dots
 * **Día / Day 13**: Pay Your Tax
