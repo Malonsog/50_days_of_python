@@ -28,7 +28,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 9**](https://github.com/Malonsog/50_days_of_python/tree/main/09): Biggest Odd Number
 * [**Día / Day 10**](https://github.com/Malonsog/50_days_of_python/tree/main/10): Hide my Password
 * [**Día / Day 10**](https://github.com/Malonsog/50_days_of_python/tree/main/10): Extra Challenge: Strings With a Thousand Separator
-* **Día / Day 11**: Are They Equal?
+* [**Día / Day 11**](https://github.com/Malonsog/50_days_of_python/tree/main/11): Are They Equal?
 * **Día / Day 12**: Count the Dots
 * **Día / Day 13**: Pay Your Tax
 * **Día / Day 14**: Flatten the List
