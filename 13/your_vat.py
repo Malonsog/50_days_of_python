@@ -17,9 +17,9 @@ def your_vat():
                 raise ValueError("Please enter a positive number.")
             else:
                 price_with_vat = price * 1.15
-                return f"The final price is : ${price_with_vat}."
+                return f"The final price is : ${price_with_vat:.2f}."
         except ValueError:
-            print(f"Invalid input: {ValueError}. Please try again.")
+            print(f"Invalid input: Please enter a positive number in numeric format (e.g., 10.50).")
 
 
 print(your_vat())
