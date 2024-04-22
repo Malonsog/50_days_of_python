@@ -31,7 +31,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 11**](https://github.com/Malonsog/50_days_of_python/tree/main/11): Are They Equal?
 * [**Día / Day 12**](https://github.com/Malonsog/50_days_of_python/tree/main/12): Count the Dots
 * [**Día / Day 12**](https://github.com/Malonsog/50_days_of_python/tree/main/12): Extra Challenge: Your Age in Minutes
-* **Día / Day 13**: Pay Your Tax
+* [**Día / Day 13**](https://github.com/Malonsog/50_days_of_python/tree/main/13): Pay Your Tax
 * **Día / Day 14**: Flatten the List
 * **Día / Day 15**: Same in Reverse
 * **Día / Day 16**: Sum the List
