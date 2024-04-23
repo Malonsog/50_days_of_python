@@ -34,11 +34,11 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 13**](https://github.com/Malonsog/50_days_of_python/tree/main/13): Pay Your Tax
 * [**Día / Day 14**](https://github.com/Malonsog/50_days_of_python/tree/main/14): Flatten the List
 * [**Día / Day 14**](https://github.com/Malonsog/50_days_of_python/tree/main/14): Extra Challenge: Teacher’s Salary
-* **Día / Day 15**: Same in Reverse
-* **Día / Day 16**: Sum the List
-* **Día / Day 17**: User Name Generator
-* **Día / Day 18**: Any Number of Arguments
-* **Día / Day 19**: Words and Elements
+* [**Día / Day 15**](https://github.com/Malonsog/50_days_of_python/tree/main/15): Same in Reverse
+* [**Día / Day 16**](https://github.com/Malonsog/50_days_of_python/tree/main/16): Sum the List
+* [**Día / Day 17**](https://github.com/Malonsog/50_days_of_python/tree/main/17): User Name Generator
+* [**Día / Day 18**](https://github.com/Malonsog/50_days_of_python/tree/main/18): Any Number of Arguments
+* [**Día / Day 19**](https://github.com/Malonsog/50_days_of_python/tree/main/19): Words and Elements
 * **Día / Day 20**: Capitalize First Letter
 * **Día / Day 21**: List of Tuples
 * **Día / Day 22**: Add Under_Score
