@@ -52,7 +52,7 @@ def your_salary():
     else:
         salary = number_of_periods * rate
     return f"""
-    Teacher: {teachers_name}
+    Teacher: {teachers_name.title()}
     Periods: {number_of_periods}
     Gross salary: ${salary:,}
     """
