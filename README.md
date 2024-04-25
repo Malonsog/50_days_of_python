@@ -41,7 +41,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 19**](https://github.com/Malonsog/50_days_of_python/tree/main/19): Words and Elements
 * [**Día / Day 20**](https://github.com/Malonsog/50_days_of_python/tree/main/20): Capitalize First Letter
 * [**Día / Day 21**](https://github.com/Malonsog/50_days_of_python/tree/main/21): List of Tuples
-* **Día / Day 22**: Add Under_Score
+* [**Día / Day 22**](https://github.com/Malonsog/50_days_of_python/tree/main/22): Add Under_Score
 * **Día / Day 23**: Simple Calculator
 * **Día / Day 24**: Average Calories
 * **Día / Day 25**: All the Same
