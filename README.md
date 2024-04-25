@@ -43,7 +43,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 21**](https://github.com/Malonsog/50_days_of_python/tree/main/21): List of Tuples
 * [**Día / Day 22**](https://github.com/Malonsog/50_days_of_python/tree/main/22): Add Under_Score
 * [**Día / Day 23**](https://github.com/Malonsog/50_days_of_python/tree/main/23): Simple Calculator
-* **Día / Day 24**: Average Calories
+* [**Día / Day 24**](https://github.com/Malonsog/50_days_of_python/tree/main/24): Average Calories
 * **Día / Day 25**: All the Same
 * **Día / Day 26**: Sort Words
 * **Día / Day 27**: Unique Numbers
