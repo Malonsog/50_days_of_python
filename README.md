@@ -49,7 +49,8 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 27**](https://github.com/Malonsog/50_days_of_python/tree/main/27): Unique Numbers
 * [**Día / Day 28**](https://github.com/Malonsog/50_days_of_python/tree/main/28): Return Indexes
 * [**Día / Day 29**](https://github.com/Malonsog/50_days_of_python/tree/main/29): Middle Figure
-* **Día / Day 30**: Most Repeated Name
+* [**Día / Day 30**](https://github.com/Malonsog/50_days_of_python/tree/main/30): Most Repeated Name
+* [**Día / Day 30**](https://github.com/Malonsog/50_days_of_python/tree/main/30): Extra Challenge: Sort by Last Name
 * **Día / Day 31**: Longest Word
 * **Día / Day 32**: Password Validator
 * **Día / Day 33**: List Intersection
