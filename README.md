@@ -45,7 +45,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 23**](https://github.com/Malonsog/50_days_of_python/tree/main/23): Simple Calculator
 * [**Día / Day 24**](https://github.com/Malonsog/50_days_of_python/tree/main/24): Average Calories
 * [**Día / Day 25**](https://github.com/Malonsog/50_days_of_python/tree/main/25): All the Same
-* **Día / Day 26**: Sort Words
+* [**Día / Day 26**](https://github.com/Malonsog/50_days_of_python/tree/main/26): Sort Words
 * **Día / Day 27**: Unique Numbers
 * **Día / Day 28**: Return Indexes
 * **Día / Day 29**: Middle Figure
