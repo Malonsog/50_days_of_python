@@ -47,7 +47,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 25**](https://github.com/Malonsog/50_days_of_python/tree/main/25): All the Same
 * [**Día / Day 26**](https://github.com/Malonsog/50_days_of_python/tree/main/26): Sort Words
 * [**Día / Day 27**](https://github.com/Malonsog/50_days_of_python/tree/main/27): Unique Numbers
-* **Día / Day 28**: Return Indexes
+* [**Día / Day 28**](https://github.com/Malonsog/50_days_of_python/tree/main/28): Return Indexes
 * **Día / Day 29**: Middle Figure
 * **Día / Day 30**: Most Repeated Name
 * **Día / Day 31**: Longest Word

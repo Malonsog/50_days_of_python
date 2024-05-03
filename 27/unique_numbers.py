@@ -9,7 +9,7 @@ For example [1, 2, 4, 5, 6, 7, 8, 8] should return [1, 2, 4, 5, 6, 7, 8, 8].
 """
 
 
-def unique_numbers(list_of_numbers: list) -> list:
+def unique_numbers(list_of_numbers: list[int]) -> list[int]:
     difference = sum(set(list_of_numbers)) - sum(list_of_numbers)
     if difference % 2 == 0:
         return list_of_numbers
