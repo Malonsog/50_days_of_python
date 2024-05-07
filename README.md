@@ -52,7 +52,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 30**](https://github.com/Malonsog/50_days_of_python/tree/main/30): Most Repeated Name
 * [**Día / Day 30**](https://github.com/Malonsog/50_days_of_python/tree/main/30): Extra Challenge: Sort by Last Name
 * [**Día / Day 31**](https://github.com/Malonsog/50_days_of_python/tree/main/31): Longest Word
-* **Día / Day 32**: Password Validator
+* [**Día / Day 32**](https://github.com/Malonsog/50_days_of_python/tree/main/32): Password Validator
 * **Día / Day 33**: List Intersection
 * **Día / Day 34**: Just Digits
 * **Día / Day 35**: Pangram
