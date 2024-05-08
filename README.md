@@ -55,7 +55,7 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 32**](https://github.com/Malonsog/50_days_of_python/tree/main/32): Password Validator
 * [**Día / Day 33**](https://github.com/Malonsog/50_days_of_python/tree/main/33): List Intersection
 * [**Día / Day 33**](https://github.com/Malonsog/50_days_of_python/tree/main/33): Extra Challenge: Set or list
-* **Día / Day 34**: Just Digits
+* [**Día / Day 34**](https://github.com/Malonsog/50_days_of_python/tree/main/34): Just Digits
 * **Día / Day 35**: Pangram
 * **Día / Day 36**: Count String
 * **Día / Day 37**: Count the Vowels
