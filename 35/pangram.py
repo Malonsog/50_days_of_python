@@ -10,7 +10,7 @@ The following sentence is a pangram so it should return True:
 import string
 
 
-def check_pangram(sentence: str) -> bool:
+def check_pangram(sentence: str):
     alphabet = list(string.ascii_lowercase)
     if alphabet == sorted(set(sentence.replace(" ", ""))):
         return True
