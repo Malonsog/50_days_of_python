@@ -58,8 +58,8 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 34**](https://github.com/Malonsog/50_days_of_python/tree/main/34): Just Digits
 * [**Día / Day 35**](https://github.com/Malonsog/50_days_of_python/tree/main/35): Pangram
 * [**Día / Day 36**](https://github.com/Malonsog/50_days_of_python/tree/main/36): Count String
-* **Día / Day 37**: Count the Vowels
-* **Día / Day 38**: Guess a Number
+* [**Día / Day 37**](https://github.com/Malonsog/50_days_of_python/tree/main/37): Count the Vowels
+* [**Día / Day 38**](https://github.com/Malonsog/50_days_of_python/tree/main/38): Guess a Number
 * **Día / Day 39**: Password Generator
 * **Día / Day 40**: Pig Latin
 * **Día / Day 41**: Only Words with Vowels
