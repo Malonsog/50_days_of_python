@@ -6,9 +6,9 @@ each element appears in the string. For example ‘hello’ should return:
 """
 
 
-def count(a: str):
+def count(string: str):
     count_dict = {}
-    for i in a:
+    for i in string:
         if i in count_dict:
             count_dict[i] += 1
         else:
