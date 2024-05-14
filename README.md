@@ -62,7 +62,8 @@ I hope this repository serves as inspiration and guidance for others who want to
 * [**Día / Day 38**](https://github.com/Malonsog/50_days_of_python/tree/main/38): Guess a Number
 * [**Día / Day 39**](https://github.com/Malonsog/50_days_of_python/tree/main/39): Password Generator
 * [**Día / Day 40**](https://github.com/Malonsog/50_days_of_python/tree/main/40): Pig Latin
-* **Día / Day 41**: Only Words with Vowels
+* [**Día / Day 41**](https://github.com/Malonsog/50_days_of_python/tree/main/41): Only Words with Vowels
+* [**Día / Day 41**](https://github.com/Malonsog/50_days_of_python/tree/main/41): Extra Challenge: Class of Cars
 * **Día / Day 42**: Spelling Checker
 * **Día / Day 43**: Student Marks
 * **Día / Day 44**: Save Emails
